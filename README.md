@@ -1,4 +1,6 @@
-#Dispersion Trading Strategy in BankNifty and Its Constituents
+#Dispersion Trading Strategy 
+
+Dispersion Trading strategy in BankNifty and Its Constituents
 Project Description
 This repository hosts a Jupyter Notebook and supporting Python code that illustrate a dispersion trading strategy applied to the BankNifty index and its constituents. The strategy utilizes statistical measures to exploit discrepancies in the implied volatilities between an index and its components, aiming for profitable trading opportunities.
 
